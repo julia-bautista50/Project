@@ -1,0 +1,12 @@
+body{
+  padding: 0 1em;
+}
+aside{
+  width: 50%;
+}
+main{
+  height: 55vh;
+}
+article{
+  font-size: 2vw;
+}
